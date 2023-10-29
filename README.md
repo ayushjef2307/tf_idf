@@ -18,7 +18,7 @@ Please make sure to have the latest version of Google Chrome browser and Chrome 
 Clone the project
 
 ```bash
-  [git clone https://github.com/aryangoenka26/LeetCode-Question-Finder](https://github.com/ayushjef2307/tf_idf.git)
+  https://github.com/ayushjef2307/tf_idf.git
 ```
 
 Go to the project directory
